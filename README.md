@@ -1,6 +1,6 @@
 # TRABALHO 2 DE RP 1 - GRUPO 3
 
-## Integrates
+## Integrantes
 
 - JOÃO VITOR PERES DOMINGOS
 - JONATHAN RAPHAEL DA SILVA
@@ -8,8 +8,8 @@
 - MATHEUS LUIS MACHADO SONEGO
 - SILVIO MARQUES DA SILVA
 
-## Entrevistas com os stakeholders
+## Entrevistas com stakeholders
 
 - Entrevista realizada no dia 31/10/2020
- - [Gravação do encontro](https://drive.google.com/file/d/1KvTAN5YrKcSj280EdfSbOv4OFJ8VY25o/view?usp=sharing)
- - [Aquivo de planejamento da reunião e anotações]()
+  - [Gravação do encontro](https://drive.google.com/file/d/1KvTAN5YrKcSj280EdfSbOv4OFJ8VY25o/view?usp=sharing)
+  - [Planejamento da reunião e anotações](/Entrevistas/entrevista_30_10_2020.pdf)
