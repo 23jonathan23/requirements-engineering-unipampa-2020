@@ -19,3 +19,6 @@
 ## Artefatos
 
 - [Diagrama de stakeholders](/Artefatos/Diagrama_de_stakeholders.pdf)
+
+## Extra
+Link para o artigo ciêntifico escrito pelos integrates da equipe: https://drive.google.com/file/d/1wGUEJZjZJvP6Kf0BHBdmVBaUKnDBhxxI/view?usp=sharing
